@@ -9,7 +9,7 @@
 ---
 
 *Habilidades
-- **Lenguajes de Programación:** Python, JavaScript
+- **Lenguajes de Programación:** Python, Java
 - **Frameworks y Librerías:** Django, Flask, React
 - **Bases de Datos:** MySQL, PostgreSQL, SQLite
 - **Herramientas y Tecnologías:** Git, Docker, VS Code
